@@ -11,3 +11,4 @@ def get_user(username):
 # retry
 # gemini test
 # new key test
+# groq test
