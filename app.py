@@ -7,3 +7,4 @@ def get_user(username):
     cursor.execute(query)
     return cursor.fetchall()
 # trigger
+# patch test
